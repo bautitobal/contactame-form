@@ -2,7 +2,7 @@
 
 Este es un repositorio que contiene una simple página web diseñada para permitir a los visitantes ponerse en contacto con el propietario del sitio web. La página presenta un formulario de contacto con campos para nombre, teléfono, correo electrónico y mensaje.  
 
-![Preview](img/preview.png)
+![Preview](img/preview.jpg)
 
 ## Características
 
